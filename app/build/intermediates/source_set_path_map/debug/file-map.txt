@@ -1,0 +1,52 @@
+com.safety.womensafetyapp-core-1.12.0-0 C:\Users\suman\.gradle\caches\transforms-3\01b227b4f14bac5414801b12aa956a0e\transformed\core-1.12.0\res
+com.safety.womensafetyapp-emoji2-1.2.0-1 C:\Users\suman\.gradle\caches\transforms-3\031b57c26989ffb906ee39c595d6f000\transformed\emoji2-1.2.0\res
+com.safety.womensafetyapp-lifecycle-viewmodel-ktx-2.6.2-2 C:\Users\suman\.gradle\caches\transforms-3\04fb69321546828767f103309905d3ac\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.safety.womensafetyapp-recyclerview-1.3.2-3 C:\Users\suman\.gradle\caches\transforms-3\1387a8e7b7aee49ff72210bc371e8e3c\transformed\recyclerview-1.3.2\res
+com.safety.womensafetyapp-firebase-common-21.0.0-4 C:\Users\suman\.gradle\caches\transforms-3\17c3e06f84d4165777524cd3dfaa9467\transformed\firebase-common-21.0.0\res
+com.safety.womensafetyapp-sqlite-framework-2.4.0-5 C:\Users\suman\.gradle\caches\transforms-3\19f3e9fd9158eaa6e8e9f7fd6c311865\transformed\sqlite-framework-2.4.0\res
+com.safety.womensafetyapp-activity-1.8.0-6 C:\Users\suman\.gradle\caches\transforms-3\1e59833ca73ded6bd0af63c3d6fbf967\transformed\activity-1.8.0\res
+com.safety.womensafetyapp-profileinstaller-1.3.0-7 C:\Users\suman\.gradle\caches\transforms-3\28d26ac2e789fd4efd14da17708db1cb\transformed\profileinstaller-1.3.0\res
+com.safety.womensafetyapp-play-services-maps-18.2.0-8 C:\Users\suman\.gradle\caches\transforms-3\2ab60aafdca9fc42888dd400bda814e6\transformed\play-services-maps-18.2.0\res
+com.safety.womensafetyapp-lifecycle-livedata-core-2.6.2-9 C:\Users\suman\.gradle\caches\transforms-3\40eee7dc5ec0b9610599347a3eb0a767\transformed\lifecycle-livedata-core-2.6.2\res
+com.safety.womensafetyapp-play-services-auth-20.7.0-10 C:\Users\suman\.gradle\caches\transforms-3\4686bf3388598d2fc053f056018d2e68\transformed\play-services-auth-20.7.0\res
+com.safety.womensafetyapp-core-ktx-1.12.0-11 C:\Users\suman\.gradle\caches\transforms-3\4e27db597cc408b485ca1538d67f9391\transformed\core-ktx-1.12.0\res
+com.safety.womensafetyapp-lifecycle-livedata-core-ktx-2.6.2-12 C:\Users\suman\.gradle\caches\transforms-3\62a6208a59636b282914fd1a32968695\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.safety.womensafetyapp-lifecycle-livedata-ktx-2.6.2-13 C:\Users\suman\.gradle\caches\transforms-3\658b95f3741e352f3a04911516666514\transformed\lifecycle-livedata-ktx-2.6.2\res
+com.safety.womensafetyapp-constraintlayout-2.1.4-14 C:\Users\suman\.gradle\caches\transforms-3\7371d3996ea02929865f4d3243c10d7f\transformed\constraintlayout-2.1.4\res
+com.safety.womensafetyapp-lifecycle-runtime-ktx-2.6.2-15 C:\Users\suman\.gradle\caches\transforms-3\762cf152496d59de5b3bbfd29aab8ab5\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.safety.womensafetyapp-cardview-1.0.0-16 C:\Users\suman\.gradle\caches\transforms-3\86e58fde0a9747e26037465a4ebc9981\transformed\cardview-1.0.0\res
+com.safety.womensafetyapp-emoji2-views-helper-1.2.0-17 C:\Users\suman\.gradle\caches\transforms-3\88a94fd74be5f033553f57cf8cc31a45\transformed\emoji2-views-helper-1.2.0\res
+com.safety.womensafetyapp-lifecycle-livedata-2.6.2-18 C:\Users\suman\.gradle\caches\transforms-3\898c8be82c6e399418ffbe66dbf105ed\transformed\lifecycle-livedata-2.6.2\res
+com.safety.womensafetyapp-material-1.10.0-19 C:\Users\suman\.gradle\caches\transforms-3\8e074f6e893b7ca24b4ae50d0910c135\transformed\material-1.10.0\res
+com.safety.womensafetyapp-customview-poolingcontainer-1.0.0-20 C:\Users\suman\.gradle\caches\transforms-3\8ee818019309e68a7457be3e2dd31661\transformed\customview-poolingcontainer-1.0.0\res
+com.safety.womensafetyapp-core-runtime-2.2.0-21 C:\Users\suman\.gradle\caches\transforms-3\8f6b748827d7182b8eef07dc300db9eb\transformed\core-runtime-2.2.0\res
+com.safety.womensafetyapp-viewpager2-1.1.0-beta02-22 C:\Users\suman\.gradle\caches\transforms-3\a5bcfeff66cb27c72d483ad65a386f52\transformed\viewpager2-1.1.0-beta02\res
+com.safety.womensafetyapp-appcompat-1.6.1-23 C:\Users\suman\.gradle\caches\transforms-3\a79a6ba0476dfb7e4db68cd4d83f5e16\transformed\appcompat-1.6.1\res
+com.safety.womensafetyapp-lifecycle-process-2.6.2-24 C:\Users\suman\.gradle\caches\transforms-3\abda97fffd7bc77b022a2029b3aef5d8\transformed\lifecycle-process-2.6.2\res
+com.safety.womensafetyapp-transition-1.2.0-25 C:\Users\suman\.gradle\caches\transforms-3\af5e442738b40b7c0b9fea68a68b1057\transformed\transition-1.2.0\res
+com.safety.womensafetyapp-coordinatorlayout-1.1.0-26 C:\Users\suman\.gradle\caches\transforms-3\afe6db6b736179755cc15f0f35359d70\transformed\coordinatorlayout-1.1.0\res
+com.safety.womensafetyapp-credentials-play-services-auth-1.2.0-rc01-27 C:\Users\suman\.gradle\caches\transforms-3\b7fa7dbe25baa6fdcc3cd36f26e19be6\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.safety.womensafetyapp-savedstate-1.2.1-28 C:\Users\suman\.gradle\caches\transforms-3\be2dcb74f49c88bc1be01b7deb2becbb\transformed\savedstate-1.2.1\res
+com.safety.womensafetyapp-lifecycle-runtime-2.6.2-29 C:\Users\suman\.gradle\caches\transforms-3\c358fa754cfdc6c502ebe84d033fcf00\transformed\lifecycle-runtime-2.6.2\res
+com.safety.womensafetyapp-annotation-experimental-1.3.0-30 C:\Users\suman\.gradle\caches\transforms-3\c50210bdd9b2872fddc60bb5ecd3eccd\transformed\annotation-experimental-1.3.0\res
+com.safety.womensafetyapp-fragment-1.3.6-31 C:\Users\suman\.gradle\caches\transforms-3\d2635455e4e3bcf63ee6458416fb6593\transformed\fragment-1.3.6\res
+com.safety.womensafetyapp-browser-1.4.0-32 C:\Users\suman\.gradle\caches\transforms-3\d33c02981a957e074a0b3b343c427d4b\transformed\browser-1.4.0\res
+com.safety.womensafetyapp-startup-runtime-1.1.1-33 C:\Users\suman\.gradle\caches\transforms-3\d8a1be8eb8d360b05b436614ddeaff4b\transformed\startup-runtime-1.1.1\res
+com.safety.womensafetyapp-credentials-1.2.0-rc01-34 C:\Users\suman\.gradle\caches\transforms-3\db9697b966bc00fc789054a67e03bcb8\transformed\credentials-1.2.0-rc01\res
+com.safety.womensafetyapp-drawerlayout-1.1.1-35 C:\Users\suman\.gradle\caches\transforms-3\dc91393ac9e240dc1ee5577622795733\transformed\drawerlayout-1.1.1\res
+com.safety.womensafetyapp-room-runtime-2.6.0-36 C:\Users\suman\.gradle\caches\transforms-3\e1348921bcf078c68736aede1a95a45a\transformed\room-runtime-2.6.0\res
+com.safety.womensafetyapp-appcompat-resources-1.6.1-37 C:\Users\suman\.gradle\caches\transforms-3\e3d4cd6abcdc323442b73f1c0961ddce\transformed\appcompat-resources-1.6.1\res
+com.safety.womensafetyapp-room-ktx-2.6.0-38 C:\Users\suman\.gradle\caches\transforms-3\e8d8d6bfcc7bec1afcbebf43f3669499\transformed\room-ktx-2.6.0\res
+com.safety.womensafetyapp-lifecycle-viewmodel-2.6.2-39 C:\Users\suman\.gradle\caches\transforms-3\ea813a8ad0c4cb76d0b0517ec772c178\transformed\lifecycle-viewmodel-2.6.2\res
+com.safety.womensafetyapp-sqlite-2.4.0-40 C:\Users\suman\.gradle\caches\transforms-3\f6d3461d12b3f66d735385d9f0edca77\transformed\sqlite-2.4.0\res
+com.safety.womensafetyapp-play-services-base-18.1.0-41 C:\Users\suman\.gradle\caches\transforms-3\f79838f1c28536fbb581b6bebce06398\transformed\play-services-base-18.1.0\res
+com.safety.womensafetyapp-lifecycle-viewmodel-savedstate-2.6.2-42 C:\Users\suman\.gradle\caches\transforms-3\fba9cbbba7ee2147a3af9ee486df8359\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.safety.womensafetyapp-play-services-basement-18.3.0-43 C:\Users\suman\.gradle\caches\transforms-3\fc0978b512a703d7b5ceb4b06cc7eee3\transformed\play-services-basement-18.3.0\res
+com.safety.womensafetyapp-pngs-44 C:\Users\suman\Desktop\Android App Development Projects\Safety\app\build\generated\res\pngs\debug
+com.safety.womensafetyapp-res-45 C:\Users\suman\Desktop\Android App Development Projects\Safety\app\build\generated\res\processDebugGoogleServices
+com.safety.womensafetyapp-resValues-46 C:\Users\suman\Desktop\Android App Development Projects\Safety\app\build\generated\res\resValues\debug
+com.safety.womensafetyapp-packageDebugResources-47 C:\Users\suman\Desktop\Android App Development Projects\Safety\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.safety.womensafetyapp-packageDebugResources-48 C:\Users\suman\Desktop\Android App Development Projects\Safety\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.safety.womensafetyapp-merged_res-49 C:\Users\suman\Desktop\Android App Development Projects\Safety\app\build\intermediates\merged_res\debug
+com.safety.womensafetyapp-debug-50 C:\Users\suman\Desktop\Android App Development Projects\Safety\app\src\debug\res
+com.safety.womensafetyapp-main-51 C:\Users\suman\Desktop\Android App Development Projects\Safety\app\src\main\res

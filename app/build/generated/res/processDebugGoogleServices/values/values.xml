@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">137959884143</string>
+    <string name="google_api_key" translatable="false">AIzaSyCBdA82FxsUTAC_tEJQB6va6tJAptDWKAA</string>
+    <string name="google_app_id" translatable="false">1:137959884143:android:0d4a0d75b82345e2ab949a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCBdA82FxsUTAC_tEJQB6va6tJAptDWKAA</string>
+    <string name="google_storage_bucket" translatable="false">safety-app-ca189.firebasestorage.app</string>
+    <string name="project_id" translatable="false">safety-app-ca189</string>
+</resources>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_purple">#6200EE</color>
+    <color name="accent_purple_light">#BB86FC</color>
+    <color name="background_card">#FFFFFF</color>
+    <color name="background_dark">#F5F5F5</color>
+    <color name="background_light">#FAFAFA</color>
+    <color name="emergency_red">#F44336</color>
+    <color name="emergency_red_light">#FF5252</color>
+    <color name="error_red">#F44336</color>
+    <color name="gray_light">#E0E0E0</color>
+    <color name="gray_medium">#9E9E9E</color>
+    <color name="ic_launcher_background">#F8BBD9</color>
+    <color name="info_blue">#2196F3</color>
+    <color name="primary_pink">#E91E63</color>
+    <color name="primary_pink_dark">#C2185B</color>
+    <color name="primary_pink_light">#F8BBD9</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="safe_green">#4CAF50</color>
+    <color name="safe_green_light">#81C784</color>
+    <color name="success_green">#4CAF50</color>
+    <color name="text_hint">#B0B0B0</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="warning_orange">#FF5722</color>
+    <color name="warning_yellow">#FF9800</color>
+    <color name="white">#FFFFFF</color>
+    <string name="about_app">About App</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="app_name">Women Safety App</string>
+    <string name="back">Back</string>
+    <string name="call_contact">Call</string>
+    <string name="cancel">Cancel</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_phone">Phone Number</string>
+    <string name="current_location">Current Location</string>
+    <string name="delete_contact">Delete</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="emergency_message">Emergency Message</string>
+    <string name="emergency_sos">Emergency SOS</string>
+    <string name="gcm_defaultSenderId" translatable="false">137959884143</string>
+    <string name="google_api_key" translatable="false">AIzaSyCBdA82FxsUTAC_tEJQB6va6tJAptDWKAA</string>
+    <string name="google_app_id" translatable="false">1:137959884143:android:0d4a0d75b82345e2ab949a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCBdA82FxsUTAC_tEJQB6va6tJAptDWKAA</string>
+    <string name="google_storage_bucket" translatable="false">safety-app-ca189.firebasestorage.app</string>
+    <string name="location_permission_required">Location permission required</string>
+    <string name="location_shared">Location shared successfully</string>
+    <string name="location_sharing">Location Sharing</string>
+    <string name="next">Next</string>
+    <string name="no">No</string>
+    <string name="no_contacts">No emergency contacts added yet</string>
+    <string name="notification_settings">Notifications</string>
+    <string name="ok">OK</string>
+    <string name="online_safety">Online Safety</string>
+    <string name="permission_location_message">This app needs location access to share your location in emergencies</string>
+    <string name="permission_location_title">Location Permission</string>
+    <string name="permission_phone_message">This app needs phone access to make emergency calls</string>
+    <string name="permission_phone_title">Phone Permission</string>
+    <string name="permission_sms_message">This app needs SMS access to send emergency messages</string>
+    <string name="permission_sms_title">SMS Permission</string>
+    <string name="personal_safety">Personal Safety</string>
+    <string name="privacy_settings">Privacy</string>
+    <string name="profile_settings">Profile Settings</string>
+    <string name="project_id" translatable="false">safety-app-ca189</string>
+    <string name="safety_tips">Safety Tips</string>
+    <string name="safety_tips_title">Safety Tips &amp; Resources</string>
+    <string name="save">Save</string>
+    <string name="save_contact">Save</string>
+    <string name="settings">Settings</string>
+    <string name="share_location">Share My Location</string>
+    <string name="sos_activated">Emergency SOS Activated</string>
+    <string name="sos_button_text">PRESS FOR EMERGENCY</string>
+    <string name="sos_cancel">Cancel</string>
+    <string name="sos_countdown">Emergency call in %d seconds</string>
+    <string name="travel_safety">Travel Safety</string>
+    <string name="user_name">Your Name</string>
+    <string name="user_phone">Your Phone</string>
+    <string name="welcome_message">Stay Safe, Stay Connected</string>
+    <string name="workplace_safety">Workplace Safety</string>
+    <string name="yes">Yes</string>
+    <style name="EmergencySOSButton" parent="Widget.Material3.Button">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">200dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_white</item>
+        <item name="backgroundTint">@color/emergency_red</item>
+        <item name="cornerRadius">100dp</item>
+        <item name="android:elevation">8dp</item>
+    </style>
+    <style name="PrimaryButton" parent="Widget.Material3.Button">
+        <item name="android:textColor">@color/text_white</item>
+        <item name="backgroundTint">@color/primary_pink</item>
+        <item name="cornerRadius">8dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="SafetyCard" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="cardBackgroundColor">@color/background_card</item>
+    </style>
+    <style name="SafetyTextInput" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/primary_pink</item>
+        <item name="hintTextColor">@color/text_hint</item>
+        <item name="android:textColorHint">@color/text_hint</item>
+    </style>
+    <style name="SafetyToolbar" parent="Widget.Material3.Toolbar">
+        <item name="android:background">@color/primary_pink</item>
+        <item name="titleTextColor">@color/text_white</item>
+        <item name="navigationIconTint">@color/text_white</item>
+    </style>
+    <style name="SecondaryButton" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textColor">@color/primary_pink</item>
+        <item name="strokeColor">@color/primary_pink</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+    <style name="Theme.WomenSafetyApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary_pink</item>
+        <item name="colorPrimaryVariant">@color/primary_pink_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/accent_purple</item>
+        <item name="colorSecondaryVariant">@color/accent_purple_light</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor">@color/primary_pink_dark</item>
+        
+        <item name="android:colorBackground">@color/background_light</item>
+        <item name="colorSurface">@color/background_card</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

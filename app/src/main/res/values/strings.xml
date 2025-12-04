@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Women Safety App</string>
+    
+    <!-- Main Activity -->
+    <string name="welcome_message">Stay Safe, Stay Connected</string>
+    <string name="emergency_sos">Emergency SOS</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="safety_tips">Safety Tips</string>
+    <string name="location_sharing">Location Sharing</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Emergency SOS -->
+    <string name="sos_button_text">PRESS FOR EMERGENCY</string>
+    <string name="sos_countdown">Emergency call in %d seconds</string>
+    <string name="sos_cancel">Cancel</string>
+    <string name="sos_activated">Emergency SOS Activated</string>
+    
+    <!-- Emergency Contacts -->
+    <string name="add_contact">Add Contact</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_phone">Phone Number</string>
+    <string name="save_contact">Save</string>
+    <string name="delete_contact">Delete</string>
+    <string name="call_contact">Call</string>
+    <string name="no_contacts">No emergency contacts added yet</string>
+    
+    <!-- Safety Tips -->
+    <string name="safety_tips_title">Safety Tips &amp; Resources</string>
+    <string name="personal_safety">Personal Safety</string>
+    <string name="online_safety">Online Safety</string>
+    <string name="travel_safety">Travel Safety</string>
+    <string name="workplace_safety">Workplace Safety</string>
+    
+    <!-- Location Sharing -->
+    <string name="share_location">Share My Location</string>
+    <string name="location_shared">Location shared successfully</string>
+    <string name="location_permission_required">Location permission required</string>
+    <string name="current_location">Current Location</string>
+    
+    <!-- Settings -->
+    <string name="profile_settings">Profile Settings</string>
+    <string name="notification_settings">Notifications</string>
+    <string name="privacy_settings">Privacy</string>
+    <string name="about_app">About App</string>
+    <string name="user_name">Your Name</string>
+    <string name="user_phone">Your Phone</string>
+    <string name="emergency_message">Emergency Message</string>
+    
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    
+    <!-- Permissions -->
+    <string name="permission_location_title">Location Permission</string>
+    <string name="permission_location_message">This app needs location access to share your location in emergencies</string>
+    <string name="permission_phone_title">Phone Permission</string>
+    <string name="permission_phone_message">This app needs phone access to make emergency calls</string>
+    <string name="permission_sms_title">SMS Permission</string>
+    <string name="permission_sms_message">This app needs SMS access to send emergency messages</string>
+</resources>
