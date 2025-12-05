@@ -4,7 +4,7 @@ A comprehensive Android application designed to enhance women's safety through e
 
 ## 📸 Application Screenshots
 
-### 🔥 Feature Showcase (4 Images per Row)
+### 🔥 Feature Showcase 
 
 | ai_alerts | ai_chatbot | app_start_symbol | dashboard |
 |---|---|---|---|
