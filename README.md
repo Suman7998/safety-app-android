@@ -4,31 +4,36 @@ A comprehensive Android application designed to enhance women's safety through e
 
 ## 📸 Application Screenshots
 
-### 🔥 Feature Showcase 
-
-| ai_alerts | ai_chatbot | app_start_symbol | dashboard |
+### 🔥 Core & AI Assisted Features
+| AI Alerts & Notifications | AI Chat Bot | App Launch Screen | Main Dashboard |
 |---|---|---|---|
 | <img src="assets/screenshots/ai_alerts.png.jpg" width="200"/> | <img src="assets/screenshots/ai_chatbot.png.jpg" width="200"/> | <img src="assets/screenshots/app_start_symbol.png.jpg" width="200"/> | <img src="assets/screenshots/dashboard.png.jpg" width="200"/> |
 
-| data_viewer_list_filters | data_viewer_list_safe_zones | emergency_contacts | emergency_sos |
+### 📂 Safety Navigation & Emergency Panels
+| Safety Filters / Data View | Safe Zones List | Emergency Contacts | Emergency SOS Trigger |
 |---|---|---|---|
 | <img src="assets/screenshots/data_viewer_list_filters.png.jpg" width="200"/> | <img src="assets/screenshots/data_viewer_list_safe_zones.jpg" width="200"/> | <img src="assets/screenshots/emergency_contacts.png.jpg" width="200"/> | <img src="assets/screenshots/emergency_sos.png.jpg" width="200"/> |
 
-| firebase_authentication | firebase_cloud_messaging | firebase_project_details | firebase_users |
+### 🔥 Firebase & Cloud Connectivity
+| Firebase Authentication | Firebase Cloud Messaging | Firebase Project Config | Firebase Users Panel |
 |---|---|---|---|
 | <img src="assets/screenshots/firebase_authentication.png" width="200"/> | <img src="assets/screenshots/firebase_cloud_messaging.png" width="200"/> | <img src="assets/screenshots/firebase_project_details.png" width="200"/> | <img src="assets/screenshots/firebase_users.png" width="200"/> |
 
-| location_sharing | login | maps_location | ml_bert_model |
+### 📍 Location & Tracking
+| Live Location Sharing | Login Screen | Maps Navigation | ML BERT Detection |
 |---|---|---|---|
 | <img src="assets/screenshots/location_sharing.png.jpg" width="200"/> | <img src="assets/screenshots/login.png.jpg" width="200"/> | <img src="assets/screenshots/maps_location.png.jpg" width="200"/> | <img src="assets/screenshots/ml_bert_model.png.jpg" width="200"/> |
 
-| multimedia | notifications | online_safety_measures | personal_safety_measures |
+### 🎥 Media, Guidance & Safety Education
+| Multimedia Access | Alert Notifications | Online Safety Tips | Personal Protection Tips |
 |---|---|---|---|
 | <img src="assets/screenshots/multimedia.png.jpg" width="200"/> | <img src="assets/screenshots/notifications.png.jpg" width="200"/> | <img src="assets/screenshots/online_safety_measures.png.jpg" width="200"/> | <img src="assets/screenshots/personal_safety_measures.png.jpg" width="200"/> |
 
-| registration | safety_measures | travel_safety | ui_interface |
+### 🧾 Registration + Travel Guidance + UI
+| Sign Up Screen | Safety Guidelines | Travel Tips | App UI Design |
 |---|---|---|---|
 | <img src="assets/screenshots/registration.png.jpg" width="200"/> | <img src="assets/screenshots/safety_measures.png.jpg" width="200"/> | <img src="assets/screenshots/travel_safety.png.jpg" width="200"/> | <img src="assets/screenshots/ui_interface.png.jpg" width="200"/> |
+
 
 ## Features
 
